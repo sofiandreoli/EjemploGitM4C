@@ -5,4 +5,5 @@ function hello() {
 
 function bye() {
   //defining a function
+  console.log("Chau");
 }
